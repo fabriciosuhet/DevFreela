@@ -1,0 +1,17 @@
+D:\projetos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.deps.json
+D:\projetos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.dll
+D:\projetos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.pdb
+D:\projetos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Core.dll
+D:\projetos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Core.pdb
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.AssemblyInfo.cs
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreel.D77BFD02.Up2Date
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.dll
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\refint\DevFreela.Infrastructure.dll
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.pdb
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\ref\DevFreela.Infrastructure.dll
+D:\projetos\DevFreela\DevFreela.Infrastructure\bin\Debug\net8.0\DevFreela.Infrastructure.runtimeconfig.json
+D:\projetos\DevFreela\DevFreela.Infrastructure\obj\Debug\net8.0\DevFreela.Infrastructure.genruntimeconfig.cache
